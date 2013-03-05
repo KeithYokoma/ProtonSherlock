@@ -1,3 +1,6 @@
 [submodule "proton"]
 	path = proton
 	url = git://github.com/hnakagawa/proton.git
+[submodule "ActionBarSherlock"]
+	path = ActionBarSherlock
+	url = git://github.com/JakeWharton/ActionBarSherlock.git
