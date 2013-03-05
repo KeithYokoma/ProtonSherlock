@@ -1,0 +1,3 @@
+[submodule "proton"]
+	path = proton
+	url = git://github.com/hnakagawa/proton.git
