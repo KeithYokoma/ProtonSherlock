@@ -17,8 +17,6 @@ lint.xml
 local.properties
 
 # Eclipse project files
-.classpath
-.project
 .metadata
 .settings
 .checkstyle
